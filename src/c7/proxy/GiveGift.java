@@ -4,6 +4,6 @@ public abstract class GiveGift {
 
 	public abstract void giveFlowers();
 	
-	public abstract void giveCloses();
+	public abstract void giveClothes();
 	
 }

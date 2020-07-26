@@ -1,4 +1,4 @@
-package c3.decorate2;
+package c6.decorate2;
 
 public class Person {
 	

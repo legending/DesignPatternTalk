@@ -1,4 +1,4 @@
-package c1.easyfactory;
+package c1.simplefactory;
 
 public abstract class Operation {
 

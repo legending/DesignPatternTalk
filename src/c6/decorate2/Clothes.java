@@ -1,6 +1,6 @@
-package c3.decorate2;
+package c6.decorate2;
 
-public class Close extends Person {
+public class Clothes extends Person {
 
 	protected Person person;
 	

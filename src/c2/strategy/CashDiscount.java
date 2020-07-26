@@ -1,10 +1,10 @@
 package c2.strategy;
 
-public class NormalCash extends AllCash {
+public class CashDiscount extends CashSuper {
 
 	@Override
 	public double getMoney(double money) {
-		return money;
+		return 0.8*money;
 	}
 	
 }

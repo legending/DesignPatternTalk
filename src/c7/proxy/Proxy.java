@@ -14,10 +14,8 @@ public class Proxy extends GiveGift {
 	}
 
 	@Override
-	public void giveCloses() {
-		pursuit.giveCloses();
+	public void giveClothes() {
+		pursuit.giveClothes();
 	}
-	
-	
 
 }

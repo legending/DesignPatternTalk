@@ -1,5 +1,10 @@
 package c15.abstractfactory;
 
+/*
+* 当前示例：工厂方法-->模拟数据库与数据库操作
+* 适用场景：
+* */
+
 public class MainTest {
 	
 	public static void main(String[] args) {

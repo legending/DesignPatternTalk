@@ -1,4 +1,4 @@
-package c3.decorate1;
+package c6.decorate1;
 
 public class DecorateA extends Decorate {
 	

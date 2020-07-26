@@ -2,15 +2,15 @@ package c2.strategy;
 
 public class CashContext {
 	
-	private AllCash cash;
+	private CashSuper cash;
 	
 	public CashContext(String type) {
 		switch (type) {
 		case "normal":
-			this.cash = new NormalCash();
+			this.cash = new CashNormal();
 			break;
 		case "discount":
-			this.cash = new DiscountCash();
+			this.cash = new CashDiscount();
 			break;
 		default:
 			throw new RuntimeException();

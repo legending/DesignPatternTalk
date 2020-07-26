@@ -1,6 +1,6 @@
-package c3.decorate1;
+package c6.decorate1;
 
-public class ConcreteCompoent extends Compoent {
+public class ConcreteComponent extends Component {
 
 	@Override
 	public void operation() {

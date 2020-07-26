@@ -1,6 +1,6 @@
-package c3.decorate2;
+package c6.decorate2;
 
-public class TShirt extends Close {
+public class TShirt extends Clothes {
 
 	@Override
 	public void show() {

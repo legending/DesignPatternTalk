@@ -14,7 +14,7 @@ public class Pursuit extends GiveGift {
 	}
 
 	@Override
-	public void giveCloses() {
+	public void giveClothes() {
 		System.out.println("送" + girl.name + "衣服");
 	}
 	
