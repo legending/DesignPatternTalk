@@ -1,0 +1,7 @@
+package com.legend.dp.c28.status;
+
+public abstract class Person {
+
+	public abstract void accept(Action visitor);
+	
+}
