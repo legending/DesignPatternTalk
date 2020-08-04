@@ -1,10 +1,10 @@
 package com.legend.dp.c27.interpretor;
 
 /*
- * 当前示例：享元模式----联合国处理国际事务
- * 定义：运用共享技术有效地支持大量细粒度对象
- * 适用场景：一个应用程序使用了大量重合度很高的对象
- * 特点：共享对象，大大减少了实例数量
+ * 当前示例：解释器模式----音乐解释器
+ * 定义：给定一个语言，给它定义一种文法表示，然后定义一个解释器用定义的文法来解释语言中的句子
+ * 适用场景：某个问题发生的频率足够高，希望用一种迷你语言来表示这个问题，解释问题的过程就是解决问题的过程
+ * 特点：使用类来表示文法规则，很容易通过继承来扩展，但如果文法太多复杂，则很难管理维护
  * */
 
 public class MainTest {
@@ -20,7 +20,7 @@ public class MainTest {
 				String str = context.getText().substring(0, 1);
 				switch (str) {
 				case "O":
-					expression = new Scale();
+					expression = new Scale();//音阶类
 					break;
 				case "C":
 				case "D":
@@ -29,7 +29,7 @@ public class MainTest {
 				case "G":
 				case "A":
 				case "B":
-					expression = new Note();
+					expression = new Note();//音调类
 					break;
 				default:
 					break;
