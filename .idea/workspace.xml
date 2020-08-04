@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f110c58-7c03-45fa-8989-4ac2bf53a0a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/legend/dp/c27/interpretor/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/legend/dp/c27/interpretor/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/legend/dp/c28/status/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/legend/dp/c28/status/Action.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/legend/dp/c28/status/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/legend/dp/c28/status/MainTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="1f110c58-7c03-45fa-8989-4ac2bf53a0a4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -182,7 +178,7 @@
       <workItem from="1596254168955" duration="41237000" />
       <workItem from="1596382497265" duration="425000" />
       <workItem from="1596433058549" duration="559000" />
-      <workItem from="1596515306512" duration="8063000" />
+      <workItem from="1596515306512" duration="8397000" />
     </task>
     <servers />
   </component>
@@ -202,22 +198,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="698" height="210" key="GridCell.Tab.0.bottom" timestamp="1596531061488">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="698" height="174" key="GridCell.Tab.0.bottom" timestamp="1596541824993">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="698" height="210" key="GridCell.Tab.0.bottom/0.23.1440.823/1440.-566.1920.1057@0.23.1440.823" timestamp="1596531061488" />
-    <state width="698" height="210" key="GridCell.Tab.0.center" timestamp="1596531061487">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="698" height="174" key="GridCell.Tab.0.bottom/0.23.1440.825/1440.-566.1920.1057@0.23.1440.825" timestamp="1596541824993" />
+    <state width="698" height="174" key="GridCell.Tab.0.center" timestamp="1596541824992">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="698" height="210" key="GridCell.Tab.0.center/0.23.1440.823/1440.-566.1920.1057@0.23.1440.823" timestamp="1596531061487" />
-    <state width="698" height="210" key="GridCell.Tab.0.left" timestamp="1596531061486">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="698" height="174" key="GridCell.Tab.0.center/0.23.1440.825/1440.-566.1920.1057@0.23.1440.825" timestamp="1596541824992" />
+    <state width="698" height="174" key="GridCell.Tab.0.left" timestamp="1596541824992">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="698" height="210" key="GridCell.Tab.0.left/0.23.1440.823/1440.-566.1920.1057@0.23.1440.823" timestamp="1596531061486" />
-    <state width="698" height="210" key="GridCell.Tab.0.right" timestamp="1596531061487">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="698" height="174" key="GridCell.Tab.0.left/0.23.1440.825/1440.-566.1920.1057@0.23.1440.825" timestamp="1596541824992" />
+    <state width="698" height="174" key="GridCell.Tab.0.right" timestamp="1596541824992">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="698" height="210" key="GridCell.Tab.0.right/0.23.1440.823/1440.-566.1920.1057@0.23.1440.823" timestamp="1596531061487" />
+    <state width="698" height="174" key="GridCell.Tab.0.right/0.23.1440.825/1440.-566.1920.1057@0.23.1440.825" timestamp="1596541824992" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
