@@ -1,4 +1,4 @@
-package com.legend.dp.c6.decorator.decorator1;
+package com.legend.dp.c6.decorator.v1;
 
 public class DecorateA extends Decorate {
 	

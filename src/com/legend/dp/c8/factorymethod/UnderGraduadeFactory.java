@@ -1,6 +1,6 @@
 package com.legend.dp.c8.factorymethod;
 
-public class UnderGratuadeFactory implements IFactory {
+public class UnderGraduadeFactory implements IFactory {
 
 	@Override
 	public LeiFeng CreateLeiFeng() {

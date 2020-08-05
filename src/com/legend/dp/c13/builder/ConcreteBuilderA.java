@@ -1,24 +1,22 @@
 package com.legend.dp.c13.builder;
 
-public class ConcreteBuildB extends AbstractBuild {
+public class ConcreteBuilderA extends Builder {
 
 	private Product product = new Product();
 	
 	@Override
 	public void buildPartA() {
-		product.add("partX");
+		product.add("partA");
 	}
 
 	@Override
 	public void buildPartB() {
-		product.add("partY");
+		product.add("partB");
 	}
 
 	@Override
 	public Product getResult() {
-		return product;
+		return this.product;
 	}
 
-	
-	
 }

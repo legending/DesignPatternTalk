@@ -1,4 +1,4 @@
-package com.legend.dp.c6.decorator.decorator2;
+package com.legend.dp.c6.decorator.v2;
 
 public class TShirt extends Clothes {
 
