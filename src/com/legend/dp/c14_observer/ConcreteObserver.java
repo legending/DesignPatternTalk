@@ -16,7 +16,5 @@ public class ConcreteObserver extends Observer {
 		observerState = subject.getSubjectState();
 		System.out.println(name + "的状态是：" + observerState);
 	}
-	
-	
-	
+
 }
