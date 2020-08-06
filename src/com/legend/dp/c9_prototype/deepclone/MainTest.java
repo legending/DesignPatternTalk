@@ -4,7 +4,7 @@ package com.legend.dp.c9_prototype.deepclone;
  * 当前示例：原型模式-->简历深度拷贝
  * 定义：用原型实例指定创建对象的种类，然后通过拷贝这些原型创建新的对象-->javascript中没有类的概念，是真正的原型模式
  * 适用场景：创建对象的过程很复杂或者要频繁修改对象
- * 特点：隐藏了创建细节
+ * 特点：隐藏了创建细节，省去了手动创建对象的过程
  * */
 
 import java.util.ArrayList;
